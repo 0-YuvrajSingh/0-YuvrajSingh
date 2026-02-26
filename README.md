@@ -77,11 +77,17 @@ Here are some of the backend systems I've built:
     - 🛡️ Structured exception handling and validation.
 - **Repo:** [github.com/0-YuvrajSingh/job-application-tracking-system](https://github.com/0-YuvrajSingh/job-application-tracking-system)
 
-#### **CRVE – Food Ordering Platform** (Frontend)
-*A responsive food ordering UI.*
-- **Tech:** React, Vite
-- **Features:** Dynamic menus, cart state management, reusable components, clean UI.
-- **Repo:** [github.com/0-YuvrajSingh/CRVE-Food-Ordering](https://github.com/0-YuvrajSingh/CRVE-Food-Ordering) *(Link updated for example)*
+#### **CR.VE – Food Ordering Platform**
+*A responsive food ordering application with authentication and cart management.*
+- **Tech:** React, Vite, Firebase, React Router, CSS3
+- **Features:**
+    - ✅ Firebase Authentication (Login/Signup)
+    - ✅ Dynamic categorized menus & cart state management
+    - ✅ Order simulation with fake payment flow
+    - ✅ Cart persistence via localStorage
+    - ✅ Mobile-first responsive design
+- **Live Demo:** [cr-ve-ibm.vercel.app](https://cr-ve-ibm.vercel.app)
+- **Repo:** [github.com/0-YuvrajSingh/cr.ve-food-ordering-platform](https://github.com/0-YuvrajSingh/cr.ve-food-ordering-platform)
 
 #### **DSA Java Solutions**
 *Structured Java implementations of core data structures and algorithms.*
