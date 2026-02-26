@@ -94,7 +94,7 @@ Here are some of the backend systems I've built:
 - ✅ **580+ problems solved** on LeetCode.
 - 📈 **LeetCode Rating:** 1503 (Peak 1532)
 - 💪 **Strong in:** Graphs, DP, Trees, Binary Search, BFS/DFS.
-- **Repo:** [github.com/0-YuvrajSingh/DSA-Java](https://github.com/0-YuvrajSingh/DSA-Java) *(Link updated for example)*
+- **Repo:** [github.com/0-YuvrajSingh/dsa-java-solutions](https://github.com/0-YuvrajSingh/dsa-java-solutions)
 
 ---
 
