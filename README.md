@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:6DB33F&height=200&section=header&text=Yuvraj%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Ecosystem&descAlignY=58&descSize=18&descColor=a8d8b0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:6DB33F&height=180&section=header&text=Yuvraj%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
+
+<h3>Backend Engineer &nbsp;·&nbsp; Java &amp; Spring Ecosystem</h3>
 
 </div>
 
@@ -29,7 +31,7 @@ public class YuvrajSingh {
     private final String[]  focus    = { "Production-grade REST APIs", "Secure Authentication Systems" };
     private final String[]  skills   = { "JWT & RBAC", "Clean Architecture", "DB Schema Design", "Performance Tuning" };
     private final String[]  collab   = { "Open-source Java/Spring Boot projects" };
-    private final int       solved   = 580;   // LeetCode problems 280+
+    private final int       solved   = 580;   // LeetCode problems
     private final int       rating   = 1503;  // LeetCode rating · Peak: 1532
     private final boolean   learning = true;  // System Design & Microservices
 
@@ -168,7 +170,7 @@ public class YuvrajSingh {
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=0-YuvrajSingh&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8&no-bg=true" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=0-YuvrajSingh&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10&no-bg=true" width="95%"/>
 </div>
 
 <br/>
