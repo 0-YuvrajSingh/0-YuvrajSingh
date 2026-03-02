@@ -139,11 +139,17 @@ Everything in my repositories follows these principles:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0-YuvrajSingh&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-YuvrajSingh&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
+<!-- Stats & Languages: using cache_seconds to reduce rate-limit failures -->
+<img src="https://github-readme-stats.vercel.app/api?username=0-YuvrajSingh&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&rank_icon=github" alt="GitHub Stats" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-YuvrajSingh&layout=compact&theme=default&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" height="170"/>
 
-<!-- GitHub Streak — powered by git.io/streak-stats (stable alternative) -->
-<img src="https://streak-stats.demolab.com/?user=0-YuvrajSingh&theme=default&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+
+<!-- Streak: demolab is the maintained fork — most reliable option -->
+<img src="https://streak-stats.demolab.com/?user=0-YuvrajSingh&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
@@ -153,7 +159,8 @@ Everything in my repositories follows these principles:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0-YuvrajSingh&theme=flat&no-frame=true&column=6&margin-w=10)](https://github.com/0-YuvrajSingh)
+<!-- Trophy: using gitprofile.netlify.app as stable fallback -->
+<img src="https://github-profile-trophy.vercel.app/?username=0-YuvrajSingh&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophies"/>
 
 </div>
 
