@@ -29,7 +29,7 @@ public class YuvrajSingh {
     private final String[]  focus    = { "Production-grade REST APIs", "Secure Authentication Systems" };
     private final String[]  skills   = { "JWT & RBAC", "Clean Architecture", "DB Schema Design", "Performance Tuning" };
     private final String[]  collab   = { "Open-source Java/Spring Boot projects" };
-    private final int       solved   = 580;   // LeetCode problems
+    private final int       solved   = 580;   // LeetCode problems 280+
     private final int       rating   = 1503;  // LeetCode rating · Peak: 1532
     private final boolean   learning = true;  // System Design & Microservices
 
