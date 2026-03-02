@@ -167,13 +167,7 @@ public class YuvrajSingh {
 
 <br/>
 
-## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=0-YuvrajSingh&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10&no-bg=true" width="95%"/>
-</div>
-
-<br/>
 
 ## ✅ Code Standards
 
