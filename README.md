@@ -163,7 +163,17 @@ public class YuvrajSingh {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0-YuvrajSingh&bg_color=ffffff&color=2d6a4f&line=6DB33F&point=1a3a2a&area=true&hide_border=true&area_color=d8f3dc" width="95%"/>
+<!-- Activity graph: ashutosh fork — more actively maintained, lower cache TTL than vercel instance -->
+<a href="https://github.com/0-YuvrajSingh">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0-YuvrajSingh&bg_color=ffffff&color=2d6a4f&line=6DB33F&point=1a3a2a&area=true&hide_border=true&area_color=d8f3dc&custom_title=Yuvraj%20Singh%27s%20Contribution%20Graph&days=30" width="95%"/>
+</a>
+
+<!-- Fallback summary row in case graph is cached -->
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0-YuvrajSingh&theme=github&utcOffset=5.5" height="150"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0-YuvrajSingh&theme=github" height="150"/>
+</div>
 
 </div>
 
