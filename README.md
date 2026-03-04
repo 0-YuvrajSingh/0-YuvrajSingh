@@ -151,15 +151,14 @@ public class YuvrajSingh {
 
 <div align="center">
 
-<!-- Stats card: using rickstaa fork — more reliable than overloaded official instance -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0-YuvrajSingh&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions,prs,contribs&title_color=2d6a4f&icon_color=6DB33F&text_color=1a1a2e" height="170"/>
+<!-- Stats: github-profile-summary-cards — completely separate service, immune to readme-stats rate limits -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0-YuvrajSingh&theme=github" height="170"/>
 &nbsp;&nbsp;
-<!-- Top langs: same reliable fork -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0-YuvrajSingh&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=2d6a4f&text_color=1a1a2e" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0-YuvrajSingh&theme=github" height="170"/>
 
 <br/>
 
-<!-- Streak: switched to github-readme-streak-stats herokuapp — updates every commit, no stale cache -->
+<!-- Streak: nirzak fork — faster cache refresh than demolab -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=0-YuvrajSingh&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=6DB33F&fire=6DB33F&currStreakLabel=2d6a4f&sideLabels=2d6a4f" />
 
 <br/><br/>
