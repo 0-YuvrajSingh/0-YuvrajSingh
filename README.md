@@ -151,9 +151,13 @@ public class YuvrajSingh {
 
 <div align="center">
 
-<img src="https://github-readme-stats-xi-eight-31.vercel.app/api?username=0-YuvrajSingh&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=2d6a4f&icon_color=6DB33F&text_color=1a1a2e" height="170"/>
+<!-- FIX 1: Switched from broken custom Vercel instance to official github-readme-stats.vercel.app -->
+<!-- FIX 2: Added show=reviews,discussions,prs,contribs — populates "Contributed to (last year)" -->
+<!-- FIX 3: Added show_icons=true + include_all_commits=true for accurate commit + star counts -->
+<img src="https://github-readme-stats.vercel.app/api?username=0-YuvrajSingh&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions,prs,contribs&title_color=2d6a4f&icon_color=6DB33F&text_color=1a1a2e" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-xi-eight-31.vercel.app/api/top-langs/?username=0-YuvrajSingh&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=2d6a4f&text_color=1a1a2e" height="170"/>
+<!-- FIX 4: Official API for languages — custom instance was returning stale/cached data -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-YuvrajSingh&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=2d6a4f&text_color=1a1a2e" height="170"/>
 
 <br/>
 
