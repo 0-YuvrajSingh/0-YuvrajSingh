@@ -8,18 +8,27 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/yuvraj-singh1008"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/0-YuvrajSingh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/u/0-YuvrajSingh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://github.com/0-YuvrajSingh"><img src="https://komarev.com/ghpvc/?username=0-YuvrajSingh&style=for-the-badge&color=6DB33F&label=PROFILE+VIEWS"/></a>
+<a href="https://linkedin.com/in/yuvraj-singh1008">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/0-YuvrajSingh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/0-YuvrajSingh/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://talk.openmrs.org/u/yuvrajsingh">
+  <img src="https://img.shields.io/badge/OpenMRS-F26522?style=for-the-badge&logo=openmrs&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=0-YuvrajSingh&style=for-the-badge&color=6DB33F&label=VIEWS"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&multiline=false&width=600&lines=Building+Secure+%26+Scalable+Backend+Systems;Java+21+%7C+Spring+Boot+%7C+Spring+Security;REST+APIs+%7C+JWT+%7C+RBAC+%7C+Clean+Arch;580%2B+LeetCode+Problems+Solved" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=640&lines=Building+Secure+%26+Scalable+Backend+Systems;Spring+Boot+%E2%80%A2+Microservices+%E2%80%A2+Spring+Security;JWT+%E2%80%A2+RBAC+%E2%80%A2+JPA+%E2%80%A2+Clean+Architecture;GSoC+2026+Contributor+at+OpenMRS;600%2B+LeetCode+Problems+Solved" alt="Typing SVG"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6DB33F&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6DB33F&height=2" width="100%"/>
 
 <br/>
 
@@ -28,15 +37,15 @@
 ```java
 public class YuvrajSingh {
 
-    private final String[]  focus    = { "Production-grade REST APIs", "Secure Authentication Systems" };
-    private final String[]  skills   = { "JWT & RBAC", "Clean Architecture", "DB Schema Design", "Performance Tuning" };
-    private final String[]  collab   = { "Open-source Java/Spring Boot projects" };
-    private final int       solved   = 580;   // LeetCode problems
-    private final int       rating   = 1503;  // LeetCode rating · Peak: 1532
-    private final boolean   learning = true;  // System Design & Microservices
+    String   role      = "Backend Engineer — Java & Spring Ecosystem";
+    String[] focus     = { "Production-grade REST APIs", "Secure Auth Systems", "Microservices" };
+    String[] expertise = { "JWT & RBAC", "Spring Security", "DB Schema Design", "Clean Architecture" };
+    String   openSource = "GSoC 2026 Applicant · OpenMRS Password Auth Re-work";
+    int      solved    = 620;   // LeetCode problems
+    int      rating    = 1532;  // LeetCode peak rating
 
-    public String philosophy() {
-        return "Well-structured code = well-structured database schema.";
+    String philosophy() {
+        return "Well-structured code starts with a well-structured schema.";
     }
 }
 ```
@@ -47,33 +56,36 @@ public class YuvrajSingh {
 
 <div align="center">
 
-**Backend Core**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=light" height="48"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" height="46"/>
 
-**Databases**
+**Databases & Caching**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=light" height="48"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" height="46"/>
 
-**Tools & Infrastructure**
+**DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=docker,git,maven,postman,idea&theme=light" height="48"/>
+<img src="https://skillicons.dev/icons?i=docker,git,maven,postman,idea&theme=dark" height="46"/>
 
-**Frontend (Supplementary)**
+**Frontend (Secondary)**
 
-<img src="https://skillicons.dev/icons?i=react,vite,firebase&theme=light" height="48"/>
+<img src="https://skillicons.dev/icons?i=react,ts,vite&theme=dark" height="46"/>
 
 </div>
 
 <br/>
 
-**Competencies**
+<div align="center">
 
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0a0a0a?style=flat-square&logo=leetcode&logoColor=FFA116)
-![DBMS](https://img.shields.io/badge/DBMS-316192?style=flat-square&logo=postgresql&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![OS](https://img.shields.io/badge/Operating_Systems-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0a0a0a?style=flat-square&logo=apachekafka&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-1a3a2a?style=flat-square)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 ![System Design](https://img.shields.io/badge/System_Design_(Learning)-6DB33F?style=flat-square)
+
+</div>
 
 <br/>
 
@@ -81,67 +93,82 @@ public class YuvrajSingh {
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 🗂️ [Task & Sprint Management System](https://github.com/0-YuvrajSingh/sprint-management)
-> Production-grade backend for sprint planning and task lifecycle management.
+### 🗂️ AgileTrack — Task & Sprint Management System
 
-| | |
-|---|---|
-| **Stack** | Java · Spring Boot · Spring Security · JPA · MySQL · JWT |
-| **APIs** | 20+ REST endpoints with pagination & filtering |
-| **Auth** | JWT + Role-Based Access Control (RBAC) |
-| **DB** | Normalized schema with validated state transitions |
-| **Arch** | Clean layered architecture |
+> **Microservices backend** for full sprint lifecycle management — from backlog to deployment tracking.
 
-</td>
-<td width="50%" valign="top">
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/0-YuvrajSingh/sprint-management)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-316192?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### 💼 [Job Application Tracking System](https://github.com/0-YuvrajSingh/job-application-tracking-system)
-> Backend platform for managing job postings and recruitment workflows.
+```
+Architecture  →  9 independent services: api-gateway · eureka-server · auth-service ·
+                 user-service · project-service · sprint-service · stories-service ·
+                 activity-service
+Auth          →  JWT + RBAC with signed service-to-service tokens
+APIs          →  20+ REST endpoints with pagination & filtering
+DB            →  Normalized schema with validated state machine transitions
+Resilience    →  Circuit breakers (Resilience4j) · Centralized exception handling
+```
 
-| | |
-|---|---|
-| **Stack** | Java · Spring Boot · Spring Security · JPA/Hibernate · MySQL · JWT |
-| **APIs** | 15+ REST endpoints |
-| **Auth** | Role separation — Recruiters & Candidates |
-| **Perf** | Optimized filtered search + indexed schema |
-| **Rel** | Centralized exception handling & validation |
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🏥 MedVault — Medical Records Platform
 
-### 🍔 [CR.VE – Food Ordering Platform](https://cr-ve-ibm.vercel.app)
-> Responsive food ordering app with auth and real-time cart management.
+> **Full-stack EHR system** with role-based access, built during Infosys internship.
 
-| | |
-|---|---|
-| **Stack** | React · Vite · Firebase · React Router · CSS3 |
-| **Auth** | Firebase Authentication |
-| **Features** | Dynamic menus, cart state, order simulation |
-| **UX** | Mobile-first · Cart persistence |
-| **Live** | [cr-ve-ibm.vercel.app](https://cr-ve-ibm.vercel.app) |
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/0-YuvrajSingh/MedVault)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React_+_TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-316192?style=flat-square&logo=mysql&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+```
+Backend       →  Spring Boot · Spring Security · JPA/Hibernate · MySQL
+Frontend      →  React 18 + TypeScript (102 files fully typed)
+Auth          →  JWT with role separation (Admin · Doctor · Patient)
+Architecture  →  Unified DashboardLayout · N+1 optimized queries · paginated APIs
+Context       →  Infosys Springboard Internship Project (Oct–Dec 2025)
+```
 
-### 🧮 [DSA Java Solutions](https://github.com/0-YuvrajSingh/dsa-java-solutions)
-> Structured Java implementations of core data structures and algorithms.
+<br/>
 
-| | |
-|---|---|
-| **Solved** | 580+ problems |
-| **Rating** | 1503 · Peak: 1532 |
-| **Strong** | Graphs · DP · Trees |
-| **Also** | Binary Search · BFS/DFS |
+### 🧮 DSA Java Solutions
 
-</td>
-</tr>
-</table>
+> **600+ structured solutions** in Java — competitive programming & placement prep.
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/0-YuvrajSingh/dsa-java-solutions)
+[![LeetCode](https://img.shields.io/badge/LeetCode_Rating-1532_Peak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/0-YuvrajSingh/)
+
+```
+Solved        →  600+ problems
+Peak Rating   →  1532  (LeetCode)
+Strong        →  Dynamic Programming · Graphs · Binary Search · Trees
+Patterns      →  DP (LCS · Knapsack · Edit Distance) · BFS/DFS · Sliding Window ·
+                 Monotonic Stack · Two Pointers
+```
+
+<br/>
+
+### 🌐 Open Source — GSoC 2026 @ OpenMRS
+
+> **Password Authentication Re-work** — migrating legacy SHA-1 to `DelegatingPasswordEncoder` + BCrypt with transparent re-hashing on login.
+
+[![OpenMRS](https://img.shields.io/badge/OpenMRS-Talk_Profile-F26522?style=for-the-badge)](https://talk.openmrs.org/u/yuvrajsingh)
+[![PR](https://img.shields.io/badge/PR_%235959-Merged-6DB33F?style=for-the-badge&logo=github)](https://github.com/openmrs/openmrs-core/pull/5959)
+
+```
+PR #5959      →  Fix extreme slowness in getEncountersByPatientIdentifier()
+               →  Replaced getPatients() with getPatientIdentifiers() — eliminated full table scan
+PR #5970      →  DelegatingPasswordEncoder PoC
+Proposal      →  BCrypt migration · legacy SHA compatibility · transparent re-hashing · unit/integration tests
+Mentor        →  Emmanuel Nyachoke
+```
 
 <br/>
 
@@ -151,51 +178,40 @@ public class YuvrajSingh {
 
 <div align="center">
 
-<!-- Stats: github-profile-summary-cards — completely separate service, immune to readme-stats rate limits -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0-YuvrajSingh&theme=github" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0-YuvrajSingh&theme=github_dark" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0-YuvrajSingh&theme=github" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0-YuvrajSingh&theme=github_dark" height="170"/>
 
 <br/>
 
-<!-- Streak: nirzak fork — faster cache refresh than demolab -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=0-YuvrajSingh&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=6DB33F&fire=6DB33F&currStreakLabel=2d6a4f&sideLabels=2d6a4f" />
+<img src="https://streak-stats.demolab.com?user=0-YuvrajSingh&theme=dark&hide_border=true&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=6DB33F&background=0d1117&stroke=1a3a2a&dates=8b9ea8"/>
 
-<br/><br/>
 
-<!-- Activity graph: ashutosh fork — more actively maintained, lower cache TTL than vercel instance -->
-<a href="https://github.com/0-YuvrajSingh">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0-YuvrajSingh&bg_color=ffffff&color=2d6a4f&line=6DB33F&point=1a3a2a&area=true&hide_border=true&area_color=d8f3dc&custom_title=Yuvraj%20Singh%27s%20Contribution%20Graph&days=30" width="95%"/>
-</a>
-
-<!-- Fallback summary row in case graph is cached -->
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0-YuvrajSingh&theme=github&utcOffset=5.5" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0-YuvrajSingh&theme=github_dark&utcOffset=5.5" height="150"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0-YuvrajSingh&theme=github" height="150"/>
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0-YuvrajSingh&theme=github_dark" height="150"/>
 
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6DB33F&height=2" width="100%"/>
 
-
-## ✅ Code Standards
+## ✅ Engineering Standards
 
 <div align="center">
 
-| Principle | Practice |
-|-----------|----------|
-| 📦 **Structure** | Clean package layout · Consistent naming conventions |
-| 🏗️ **Architecture** | Layered design with clear separation of concerns |
-| 🔐 **Security** | JWT auth flows · Role-Based Access Control |
-| 🛡️ **Reliability** | Input validation · Centralized exception handling |
-| 🗄️ **Database** | Normalized schema · Strategic indexing |
-| 📖 **Docs** | Clear READMEs for fast onboarding |
+| | Principle | Practice |
+|---|-----------|----------|
+| 🏗️ | **Architecture** | Layered design · Clear separation of concerns · Microservices |
+| 🔐 | **Security** | Spring Security · JWT auth flows · RBAC · BCrypt hashing |
+| 🛡️ | **Reliability** | Input validation · Centralized exception handling · Circuit breakers |
+| 🗄️ | **Database** | Normalized schema · Strategic indexing · N+1 elimination |
+| ⚡ | **Performance** | Paginated APIs · Query optimization · Async where applicable |
+| 📖 | **Documentation** | Clear READMEs · Self-documenting code · API contracts |
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:1a3a2a,100:0d1117&height=120&section=footer&text=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22&fontSize=16&fontColor=a8d8b0&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:1a3a2a,100:0d1117&height=130&section=footer&text=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22&fontSize=16&fontColor=a8d8b0&fontAlignY=65&animation=fadeIn" width="100%"/>
